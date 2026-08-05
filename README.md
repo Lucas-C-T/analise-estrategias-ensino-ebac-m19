@@ -1,3 +1,30 @@
+<details>
+<summary>🇬🇧 English Version (click to expand)</summary>
+
+# Teaching Strategies Analysis - EBAC
+
+## 🎯 Objective
+This project, developed as part of EBAC's Data Science course, aims to statistically evaluate the effectiveness of two mathematics teaching strategies. Through hypothesis testing, we seek to determine whether there is a significant difference in the average performance of students between Strategy A and Strategy B.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas, NumPy
+- SciPy (Stats)
+- Matplotlib, Seaborn
+
+## 📊 Methodology
+1. **Hypothesis Definition:** Establishing the null hypothesis ($H_0$) and the alternative hypothesis ($H_1$).  
+2. **Exploratory Analysis:** Checking the distribution of grades for both groups.  
+3. **Statistical Test:** Applying the t-test to verify the statistical significance of the difference between means.  
+4. **Visualization:** Plotting the t-distribution highlighting the critical region and the observed value (p-value).  
+5. **Conclusion:** Interpreting results based on the significance level (0.05) to decide on the superiority of the new strategy.  
+
+---
+*Project developed as part of EBAC's Data Science course.*
+</details>
+
+---
+
 # Análise de Estratégias de Ensino - EBAC
 
 ## 🎯 Objetivo
